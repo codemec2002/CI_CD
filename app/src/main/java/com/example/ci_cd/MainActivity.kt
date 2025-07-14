@@ -10,6 +10,6 @@ class MainActivity : ComponentActivity() {
     }
 
     fun checkCICD() {
-        Log.d("Test", "successful");
+        Log.d("Test", "successful")
     }
 }
